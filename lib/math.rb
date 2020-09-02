@@ -24,6 +24,5 @@ return quotient
 end
 
 def square_root(num)
-square = 1**num
-return square
+return math.sqrt(num)
 end
