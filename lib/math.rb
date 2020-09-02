@@ -24,6 +24,6 @@ return quotient
 end
 
 def square_root(num)
-square = num**num
+square = num**1
 return square
 end
